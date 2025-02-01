@@ -2,3 +2,5 @@
 
 - intra-name
 - hichikaw
+- rhonda
+- kokurita
