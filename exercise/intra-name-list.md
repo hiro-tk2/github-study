@@ -3,5 +3,6 @@
 
 - intra-name
 - kenakamu
-
-
+- hichikaw
+- rhonda
+- kokurita
